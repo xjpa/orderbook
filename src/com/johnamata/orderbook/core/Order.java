@@ -1,4 +1,4 @@
-package com.johnamata.core;
+package com.johnamata.orderbook.core;
 
 //for trade orders
 public class Order {
